@@ -1,8 +1,6 @@
 data-sets
 =========
 
-A collection of data sets
-
 ### {title}  
 {link-to-the-data-set}  
 {short, useful description of the data set}  
