@@ -5,7 +5,7 @@ A collection of data sets
 
 {title}  
 {link-to-the-data-set}  
-{short, usefule description of the data set}  
+{short, useful description of the data set}  
 
 Datasets for "The Elements of Statistical Learning"  
 http://www-stat.stanford.edu/~tibs/ElemStatLearn/data.html
