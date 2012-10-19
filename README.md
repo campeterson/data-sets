@@ -27,3 +27,9 @@ http://aws.amazon.com/publicdatasets/
 http://www.bus.miami.edu/research-library/free-internet-sites/Statistical%20Data%20Sets.html
 
 https://explore.data.gov/catalog/raw/
+
+http://datamob.org/datasets
+
+http://geodacenter.asu.edu/sdata
+
+http://www.utah.gov/data/
