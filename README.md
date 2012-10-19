@@ -20,3 +20,10 @@ links to groups of data sets
 https://bitly.com/bundles/hmason/1  
 This is a bundle that gathers public data sets that might be interesting to researchers in a variety of fields in one place.  
 
+http://pages.stern.nyu.edu/~adamodar/New_Home_Page/data.html
+
+http://aws.amazon.com/publicdatasets/
+
+http://www.bus.miami.edu/research-library/free-internet-sites/Statistical%20Data%20Sets.html
+
+https://explore.data.gov/catalog/raw/
