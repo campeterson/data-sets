@@ -12,6 +12,9 @@ http://www-stat.stanford.edu/~tibs/ElemStatLearn/data.html
 http://www.cs.cmu.edu/~enron/  
 CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data from about 150 users, mostly senior management of Enron, organized into folders. The corpus contains a total of about 0.5M messages.  
 
+### Yandex
+http://imat-relpred.yandex.ru/en/datasets
+
 
 links to groups of data sets
 ============================
