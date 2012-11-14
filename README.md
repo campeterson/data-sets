@@ -35,3 +35,16 @@ http://geodacenter.asu.edu/sdata
 
 ### Public Data for the State of Utah
 http://www.utah.gov/data/
+
+### UC Irvine Machine Learning Repository
+http://archive.ics.uci.edu/ml/index.html
+http://archive.ics.uci.edu/ml/datasets.html
+
+### European Cities 1M Data Sets
+http://image.ntua.gr/iva/datasets/ec1m/
+
+### University of Edinburgh School of Informatics Data Sets for Data Mining
+http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
+
+### Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
+http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
