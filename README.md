@@ -8,8 +8,10 @@ CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data
 ### Yandex
 http://imat-relpred.yandex.ru/en/datasets
 
-### FAA Data
+### FAA Aviation Data
+https://nfdc.faa.gov/xwiki/bin/view/NFDC/WebHome
 http://www.faa.gov/data_research/
+http://www.fly.faa.gov/flyfaa/usmap.jsp
 
 ### Hilary Mason's "Research Quality" Data-sets  
 https://bitly.com/bundles/hmason/1  
