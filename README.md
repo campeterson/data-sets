@@ -8,12 +8,21 @@ CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data
 ### Yandex
 http://imat-relpred.yandex.ru/en/datasets
 
+-----------
 ### FAA Aviation Data
 https://nfdc.faa.gov/xwiki/bin/view/NFDC/WebHome
 
 http://www.faa.gov/data_research/
 
 http://www.fly.faa.gov/flyfaa/usmap.jsp
+
+### Public Government Data Sets
+https://explore.data.gov/catalog/raw/
+
+### U.S. Department of Homeland Security Data
+http://www.dhs.gov/data
+
+-----------
 
 ### Hilary Mason's "Research Quality" Data-sets  
 https://bitly.com/bundles/hmason/1  
@@ -27,9 +36,6 @@ http://aws.amazon.com/publicdatasets/
 
 ### Miami School of Business Statistical Data Sets
 http://www.bus.miami.edu/research-library/free-internet-sites/Statistical%20Data%20Sets.html
-
-### Public Government Data Sets
-https://explore.data.gov/catalog/raw/
 
 ### Public data put to good use
 http://datamob.org/datasets
