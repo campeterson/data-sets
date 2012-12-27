@@ -1,3 +1,6 @@
+### DonorsChoose.org - Hacking Education: A Contest for Developers and Data Crunchers
+http://developer.donorschoose.org/the-data
+
 ### Datasets for "The Elements of Statistical Learning"  
 http://www-stat.stanford.edu/~tibs/ElemStatLearn/data.html
 
