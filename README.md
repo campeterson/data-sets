@@ -11,6 +11,9 @@ CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data
 ### Yandex
 http://imat-relpred.yandex.ru/en/datasets
 
+### Dr. Jerry A. Smith's Favorite Data sets
+http://datascientistinsights.com/2013/02/02/data-monetization-road-paved-on-top-of-data-sets/
+
 -----------
 ### FAA Aviation Data
 https://nfdc.faa.gov/xwiki/bin/view/NFDC/WebHome
