@@ -14,6 +14,9 @@ http://imat-relpred.yandex.ru/en/datasets
 ### Dr. Jerry A. Smith's Favorite Data sets
 http://datascientistinsights.com/2013/02/02/data-monetization-road-paved-on-top-of-data-sets/
 
+### Football (Soccer) Stats
+http://www.11v11.com/
+
 -----------
 ### FAA Aviation Data
 https://nfdc.faa.gov/xwiki/bin/view/NFDC/WebHome
