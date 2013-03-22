@@ -67,3 +67,6 @@ http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
 
 ### Opinion Mining, Sentiment Analysis, and Opinion Spam Detection
 http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+### Quandl - Intelligenct search for numerical data
+http://www.quandl.com/
