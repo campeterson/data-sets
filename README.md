@@ -70,3 +70,6 @@ http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 ### Quandl - Intelligenct search for numerical data
 http://www.quandl.com/
+
+### Open Sports Data/API
+http://www.openligadb.de/
