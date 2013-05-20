@@ -37,6 +37,9 @@ http://www.dhs.gov/data
 https://bitly.com/bundles/hmason/1  
 This is a bundle that gathers public data sets that might be interesting to researchers in a variety of fields in one place.
 
+### Peter Skomoroch's list of data sets on Delicious
+https://delicious.com/pskomoroch/dataset
+
 ### The Data Page
 http://pages.stern.nyu.edu/~adamodar/New_Home_Page/data.html
 
