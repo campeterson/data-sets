@@ -79,3 +79,6 @@ http://www.openligadb.de/
 
 ### Gephi Graph Visualization Sample Data Sets
 https://wiki.gephi.org/index.php?title=Datasets
+
+### CitiBike, by NYC Bike Share - Station data
+http://citibikenyc.com/stations/json
